@@ -68,7 +68,7 @@
             lblJogadorO.Name = "lblJogadorO";
             lblJogadorO.Size = new Size(48, 25);
             lblJogadorO.TabIndex = 4;
-            lblJogadorO.Text = "<<<";
+            lblJogadorO.Text = ">>>";
             // 
             // LblJogadorX
             // 
